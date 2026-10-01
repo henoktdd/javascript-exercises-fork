@@ -1,3 +1,39 @@
+# JavaScript Exercises — The Odin Project
+
+A personal collection of completed JavaScript exercises, solved as part of [The Odin Project](https://www.theodinproject.com/) Web Development Foundations curriculum.
+
+## Overview
+
+This repository contains my solutions to the fundamental JavaScript practice sets provided by The Odin Project. The exercises focus on building core programming logic, mastering basic syntax, understanding functions, manipulating data structures, and verifying code functionality using unit testing with Jest.
+
+## Tracked Progress
+
+### Foundations
+
+- [x] **Data Types and Conditionals**
+  - [x] `01_helloWorld` — Setting up the environment & running Jest tests
+  - [x] `02_addNumbers` — Basic variables & arithmetic operators
+  - [x] `03_numberChecker` — Conditional statements & logic (`if`/`else`)
+  - [x] `04_mathEquations` — Mathematical operators & expression evaluation
+  - [x] `05_joinStrings` — String concatenation & variable formatting
+- [ ] **Loops and Arrays**
+- [ ] **Object Basics**
+
+## Technical Stack & Tools
+
+- **JavaScript (ES6+)** — Fundamental language features, functions, and operators
+- **Node.js & npm** — Environment runtime and dependency management
+- **Jest** — Automated unit testing framework used to verify solutions
+- **Git & GitHub** — Version control and repository management
+
+---
+
+Maintained by **Henok Teshome** © 2026
+
+---
+
+# Original Instructions Below:
+
 # JavaScript Exercises
 
 These JavaScript exercises are intended to complement the JavaScript content on [The Odin Project](https://www.theodinproject.com/) (TOP). They should only be done when instructed during the course of the curriculum.
